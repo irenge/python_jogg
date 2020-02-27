@@ -1,0 +1,1 @@
+isbn12 = input("enter isbn:")
