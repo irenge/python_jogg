@@ -16,7 +16,7 @@ def overall(x,y,z):
         return "PASS"
     else:
         return "FAIL"
-print("############  START #####################")
+print("############  INPUT #####################")
 bio = float(input("Enter Biology mark: "))
 chem = float(input("Enter your Chemistry: "))
 phys = float(input("Enter your physics: "))

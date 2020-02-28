@@ -5,7 +5,6 @@ for i in range(len(num)):
         if(i % 2 != 0):
            total = total +3*int(num[i])
         else:
-           total = total + int(num[i])
-            
+           total = total + int(num[i])            
 final = 10 - (total % 10)
 print(final)
